@@ -4,13 +4,13 @@
     <name>
       <brand>Spectrum Filaments</brand>
       <material>PLA</material>
-      <color>Forest Green</color>
-      <label>Premium PLA Forest Green</label>
+      <color>#83639D</color>
+      <label>PLA Premium LAVENDER VIOLETT</label>
     </name>
     <version>8</version>
-    <GUID>bffb1064-6832-4bd2-b768-51029872e3b3</GUID>
-    <color_code>#008351</color_code>
-    <description>https://shop.spectrumfilaments.com/product-eng-504-Filament-Spectrum-PLA-Premium-1-75mm-FOREST-GREEN-1kg-RAL-6024.html</description>
+    <GUID>ecfc3d84-9e59-4143-b23f-54f82cf7b1b4</GUID>
+    <color_code>#83639D</color_code>
+    <description />
     <adhesion_info />
   </metadata>
   <properties>
@@ -18,7 +18,7 @@
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">195.0</setting>
+    <setting key="print temperature">200.0</setting>
     <setting key="heated bed temperature">40.0</setting>
     <setting key="standby temperature">175</setting>
     <setting key="adhesion tendency">0</setting>
