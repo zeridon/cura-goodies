@@ -8,7 +8,7 @@
       <label>PLA - Turquoise</label>
     </name>
     <version>8</version>
-    <GUID>894b833f-de37-4b0e-9bd8-819dc2795590</GUID>
+    <GUID>894b833f-de37-4b0e-9bd8-819dc27960.0</GUID>
     <color_code>#ffffff</color_code>
     <description />
     <adhesion_info />
@@ -19,7 +19,7 @@
   </properties>
   <settings>
     <setting key="print temperature">210.0</setting>
-    <setting key="heated bed temperature">55.0</setting>
+    <setting key="heated bed temperature">60.0</setting>
     <setting key="standby temperature">175</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>

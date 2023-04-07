@@ -9,7 +9,7 @@
     </name>
     <version>8</version>
     <GUID>7f1e6644-8bd0-436f-adcc-6772dff00b9b</GUID>
-    <color_code>#ffffff</color_code>
+    <color_code>#729fcf</color_code>
     <description />
     <adhesion_info />
   </metadata>
@@ -19,7 +19,7 @@
   </properties>
   <settings>
     <setting key="print temperature">210.0</setting>
-    <setting key="heated bed temperature">55.0</setting>
+    <setting key="heated bed temperature">60.0</setting>
     <setting key="standby temperature">175</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
